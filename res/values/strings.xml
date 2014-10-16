@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">搞笑吧</string>
+    <string name="image_tab_name">搞笑图片</string>
+    <string name="text_tab_name">幽默笑话</string>
+    <string name="both_tab_name">精品系列</string>
+    <string name="ic_update_name">我的收藏</string>
+    <string name="ic_setting_name">更多</string>
+    <string name="ic_app_name">应用推荐</string>
+    <string name="border_top">Border Top</string>
+    <string name="border_bottom">Border Bottom</string>
+    <string name="image_url">Image Url</string>
+    <string name="dialog_fav_btn">收藏</string>
+    <string name="dialog_close_btn">关闭</string>
+    <string name="dialog_img">大图片</string>
+    <string name="drag_to_refresh">下拉刷新</string>
+	<string name="share_btn">分享</string>
+	<string name="more_btn">更多内容</string>
+	<string name="text_test_str">一日，将军潜入花木兰帐内欲行不归，强行要上木兰姐姐，就在这时，将军忽然指着花木兰大叫一声：你~你~你~竟然是个女的......</string>
+	<string name="text_num">1</string>
+	<string name="good_test_str">不容错过的神回复系列</string>
+	<string name="good_tip_str">未满十八岁禁止进入，否则长不长</string>
+	<string name="good_sum_str">#99</string>
+	<string name="content_title_str">标煤...</string>
+	<string name="nogood_str">亲，记得打开WIFI哦</string>
+	<string name="nofav_str">欧巴，啊啦还么有收藏呐</string>
+	<string name="dofav_str">已收藏</string>
+	<string name="setting_version">搞笑吧 1.3</string>
+	<string name="setting_contact">联系信息</string>
+	<string name="setting_author">作者：</string>
+	<string name="setting_author_name">joveth</string>
+	<string name="setting_qq">Q  Q：</string>
+	<string name="setting_qq_num">247911950</string>
+	<string name="setting_mail">邮箱：</string>
+	<string name="setting_mail_addr">funny_ba@163.com</string>
+	<string name="setting_weibo">微博：</string>
+	<string name="setting_weibo_addr">新浪http://weibo.com/u/2096710855</string>
+	<string name="setting_app">应用推荐</string>
+	<string name="setting_app_infor">软件说明</string>
+	<string name="setting_copyright">如果你发现这里面有你熟悉的，或者你认为对你造成侵权的，请及时联系我，毕竟作者是个屌丝，会有很多疏忽的地方，亲莫要介意。若软件中内容没有经过你的许可或者你不想要让TA出现在这里，亲请告知我，毕竟你们的支持才是搞基的我最大动力，好了就说这么多了，再说就要天亮了</string>
+	<string name="setting_author_is">作者の梗</string>
+	<string name="setting_author_fuck">如果你想要和我合作不管是什么性质的，亲，联系我。如果你觉得软件做的不够好，那就邮件提意见，亲这个真的不收费，如果你觉得实在是不好用你可以来邮件骂我，若是你觉得这样骂不过瘾，你也可以跟我QQ语言当耳骂，若是你实在忍不住了，那，对不起，我不搞基好多年了。亲，一定要给我反馈意见哦。</string>
+	<string name="setting_suggest">意见反馈</string>
+	<string name="setting_send_suggest">发送反馈意见</string>
+	<string name="setting_hint">如果输入法弹出框遮盖了输入框，你可以向上拉一下哦</string>
+	<string name="setting_share">作者还在努力实现中...</string>
+</resources>

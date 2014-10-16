@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/large_image "
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:maxHeight="600dp"
+        android:minHeight="400dp"
+        android:src="@drawable/nofound" 
+        android:contentDescription="@string/dialog_img"
+        >
+    </ImageView>
+
+    <LinearLayout
+        android:id="@+id/ad_bar_da"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/large_image "
+        android:orientation="vertical"  />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ad_bar_da"
+        android:layout_margin="0dp"
+        android:orientation="horizontal"
+        android:id="@+id/btn_lay"
+        android:padding="0dp" >
+
+        <Button
+            android:id="@+id/to_fav"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_bg_selector"
+            android:padding="0dp"
+            android:text="@string/dialog_fav_btn" />
+
+        <Button
+            android:id="@+id/to_close"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/btn_bg_selector"
+            android:padding="0dp"
+            android:text="@string/dialog_close_btn" />
+    </LinearLayout>
+
+</RelativeLayout>
